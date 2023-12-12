@@ -6,9 +6,13 @@
 
 - 👨‍🎓 Recently graduated from Le Wagon Web Dev Bootcamp ✨
 
-## My final project
+## My final group project
 
-Keep track of the birds you find in an easy and entertaining way! 🐦 🐦 🐦
+-Keep track of the birds you find in an easy and entertaining way! 🐦 🐦 🐦
+
+-Unlock badges and XP for each picture you make
+
+-Learn while you do it
 
 [Avikan](https://avikan-6dd30ac64e44.herokuapp.com/)
 
