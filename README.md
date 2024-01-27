@@ -10,7 +10,7 @@
 
 -Keep track of the birds you find in an easy and entertaining way! 🐦 🐦 🐦
 
--Unlock badges and XP for each picture you make
+-Unlock badges and XP for each picture you take
 
 -Learn while you do it
 
