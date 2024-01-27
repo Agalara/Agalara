@@ -14,7 +14,7 @@
 
 -Learn while you do it
 
-<p align center>[Avikan](https://avikan-6dd30ac64e44.herokuapp.com/)</p>
+<p align= "center"> [Avikan](https://avikan-6dd30ac64e44.herokuapp.com/) </p>
 
 ## My tools:
 <p align="left"> 
