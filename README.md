@@ -1,10 +1,10 @@
 ![star-wars-hello-there](https://github.com/Agalara/Agalara/assets/95692607/cbbd5072-5382-4445-9bd7-cf386321540c)
 
 ## Hi, I'm Alberto Garcia 🤘
-#### I'm a Junior Full Stack Developer, always seeking to keep learning and improve my coding skills
+#### I'm a Junior Full Stack Web Developer, always seeking to keep learning and improve my coding skills
 
 
-- 👨‍🎓 Recently graduated from Le Wagon Web Dev Bootcamp ✨
+- 👨‍🎓 Graduated from Le Wagon Web Dev Bootcamp Berlin ✨
 
 ## My final group project
 
